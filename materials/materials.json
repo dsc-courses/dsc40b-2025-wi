@@ -165,7 +165,7 @@
                 "01-intro": {
                     "metadata": {
                         "reading": "Section 1.6",
-                        "date": "2024-09-26",
+                        "date": "2025-01-07",
                         "topic": "Introduction",
                         "number": 1
                     },
@@ -178,7 +178,7 @@
                 "02-time_complexity-pt_I": {
                     "metadata": {
                         "reading": "Section 1.1 - 1.4",
-                        "date": "2024-10-01",
+                        "date": "2025-01-09",
                         "topic": "Asymptotic Time Complexity, pt. I",
                         "number": 2
                     },
@@ -191,7 +191,7 @@
                 "03-time_complexity-pt_II": {
                     "metadata": {
                         "reading": "Section 1.5",
-                        "date": "2024-10-03",
+                        "date": "2025-01-14",
                         "topic": "Asymptotic Time Complexity, pt. II",
                         "number": 3
                     },
@@ -204,7 +204,7 @@
                 "04-expected_time": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-10-08",
+                        "date": "2025-01-16",
                         "topic": "Best, Worst, and Expected Time",
                         "number": 4
                     },
@@ -217,7 +217,7 @@
                 "05-binary_search-recurrences": {
                     "metadata": {
                         "reading": "Sections 2.4.1 and 2.2",
-                        "date": "2024-10-10",
+                        "date": "2025-01-21",
                         "topic": "Recurrences and Binary Search",
                         "number": 5
                     },
@@ -230,7 +230,7 @@
                 "06-sorting": {
                     "metadata": {
                         "reading": "Section 2.1 and 2.3",
-                        "date": "2024-10-15",
+                        "date": "2025-01-23",
                         "topic": "Sorting",
                         "number": 6
                     },
@@ -243,7 +243,7 @@
                 "07-quickselect": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-10-17",
+                        "date": "2025-01-28",
                         "topic": "Quickselect",
                         "number": 7
                     },
@@ -256,7 +256,7 @@
                 "08-bst": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-10-22",
+                        "date": "2025-01-30",
                         "topic": "Binary Search Trees",
                         "number": 8
                     },
@@ -269,7 +269,7 @@
                 "09-hashing": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-10-24",
+                        "date": "2025-02-04",
                         "topic": "Hashing",
                         "number": 9
                     },
@@ -282,7 +282,7 @@
                 "10-graph_theory": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
-                        "date": "2024-10-31",
+                        "date": "2025-02-06",
                         "topic": "Graph Theory",
                         "number": 10,
                         "videos": null
@@ -296,7 +296,7 @@
                 "11-bfs-pt_I": {
                     "metadata": {
                         "reading": "Section 3.3",
-                        "date": "2024-11-05",
+                        "date": "2025-02-11",
                         "topic": "Breadth First Search",
                         "number": 11
                     },
@@ -309,7 +309,7 @@
                 "12-bfs-pt_II": {
                     "metadata": {
                         "reading": "Section 3.3",
-                        "date": "2024-11-07",
+                        "date": "2025-02-13",
                         "topic": "BFS for Shortest Paths",
                         "number": 12
                     },
@@ -322,7 +322,7 @@
                 "13-dfs": {
                     "metadata": {
                         "reading": "Section 3.4",
-                        "date": "2024-11-12",
+                        "date": "2025-02-18",
                         "topic": "Depth-First Search",
                         "number": 13
                     },
@@ -335,7 +335,7 @@
                 "14-bellman_ford": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-11-14",
+                        "date": "2025-02-20",
                         "topic": "Bellman-Ford",
                         "number": 14
                     },
@@ -348,7 +348,7 @@
                 "15-dijkstra": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-11-19",
+                        "date": "2025-02-25",
                         "topic": "Dijkstra's Algorithm",
                         "number": 15
                     },
@@ -361,7 +361,7 @@
                 "16-prim": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-11-21",
+                        "date": "2025-02-27",
                         "topic": "Minimum Spanning Trees and Prim's Algorithm",
                         "number": 16
                     },
