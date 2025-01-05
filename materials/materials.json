@@ -34,7 +34,7 @@
             "publications": {
                 "01-time_complexity": {
                     "metadata": {
-                        "date": "2025-10-04",
+                        "date": "2025-01-13",
                         "topic": "Time Complexity Analysis",
                         "number": 1,
                         "recording": null
@@ -43,7 +43,7 @@
                 },
                 "02-best_worst_time": {
                     "metadata": {
-                        "date": "2025-10-11",
+                        "date": "2025-01-20",
                         "topic": "Time Complexity and Recurrences",
                         "number": 2,
                         "recording": null
@@ -52,7 +52,7 @@
                 },
                 "03-recursion_sorting": {
                     "metadata": {
-                        "date": "2025-10-18",
+                        "date": "2025-01-27",
                         "topic": "Recurrence Relations and Sorting",
                         "number": 3,
                         "recording": null
@@ -61,7 +61,7 @@
                 },
                 "04-midterm_01_review": {
                     "metadata": {
-                        "date": "2025-10-25",
+                        "date": "2025-02-03",
                         "topic": "Midterm 01 Review",
                         "number": 4,
                         "recording": null
@@ -70,7 +70,7 @@
                 },
                 "05-hashing": {
                     "metadata": {
-                        "date": "2025-11-01",
+                        "date": "2025-02-10",
                         "topic": "Hashing",
                         "number": 5,
                         "recording": null
@@ -79,7 +79,7 @@
                 },
                 "06-graphs_bfs": {
                     "metadata": {
-                        "date": "2024-11-08",
+                        "date": "2025-02-17",
                         "topic": "Graphs and BFS",
                         "number": 6,
                         "recording": "https://youtu.be/phOUm0A81RA"
@@ -88,7 +88,7 @@
                 },
                 "07-dfs": {
                     "metadata": {
-                        "date": "2024-11-15",
+                        "date": "2025-02-24",
                         "topic": "DFS",
                         "number": 7,
                         "recording": null
@@ -97,7 +97,7 @@
                 },
                 "08-bellman_ford": {
                     "metadata": {
-                        "date": "2024-11-22",
+                        "date": "2025-03-03",
                         "topic": "Bellman-Ford",
                         "number": 8
                     },
@@ -105,7 +105,7 @@
                 },
                 "09-prim_kruskal": {
                     "metadata": {
-                        "date": "2024-12-06",
+                        "date": "2025-03-10",
                         "topic": "Prim, Kruskal, MST",
                         "number": 9
                     },
@@ -282,7 +282,7 @@
                 "10-graph_theory": {
                     "metadata": {
                         "reading": "Section 3.1 and 3.2",
-                        "date": "2025-02-06",
+                        "date": "2025-02-11",
                         "topic": "Graph Theory",
                         "number": 10,
                         "videos": null
@@ -296,7 +296,7 @@
                 "11-bfs-pt_I": {
                     "metadata": {
                         "reading": "Section 3.3",
-                        "date": "2025-02-11",
+                        "date": "2025-02-13",
                         "topic": "Breadth First Search",
                         "number": 11
                     },
@@ -309,7 +309,7 @@
                 "12-bfs-pt_II": {
                     "metadata": {
                         "reading": "Section 3.3",
-                        "date": "2025-02-13",
+                        "date": "2025-02-18",
                         "topic": "BFS for Shortest Paths",
                         "number": 12
                     },
@@ -322,7 +322,7 @@
                 "13-dfs": {
                     "metadata": {
                         "reading": "Section 3.4",
-                        "date": "2025-02-18",
+                        "date": "2025-02-20",
                         "topic": "Depth-First Search",
                         "number": 13
                     },
@@ -335,7 +335,7 @@
                 "14-bellman_ford": {
                     "metadata": {
                         "reading": null,
-                        "date": "2025-02-20",
+                        "date": "2025-02-25",
                         "topic": "Bellman-Ford",
                         "number": 14
                     },
@@ -348,7 +348,7 @@
                 "15-dijkstra": {
                     "metadata": {
                         "reading": null,
-                        "date": "2025-02-25",
+                        "date": "2025-02-27",
                         "topic": "Dijkstra's Algorithm",
                         "number": 15
                     },
@@ -361,7 +361,7 @@
                 "16-prim": {
                     "metadata": {
                         "reading": null,
-                        "date": "2025-02-27",
+                        "date": "2025-03-04",
                         "topic": "Minimum Spanning Trees and Prim's Algorithm",
                         "number": 16
                     },
@@ -374,7 +374,7 @@
                 "17-kruskal": {
                     "metadata": {
                         "reading": "Section 3.5",
-                        "date": "2024-12-03",
+                        "date": "2025-03-11",
                         "topic": "Kruskal's Algorithm",
                         "number": 17
                     },
@@ -387,7 +387,7 @@
                 "18-np_completeness": {
                     "metadata": {
                         "reading": null,
-                        "date": "2024-12-05",
+                        "date": "2025-03-13",
                         "topic": "Complexity Theory (Optional)",
                         "number": 18
                     },
@@ -428,9 +428,9 @@
             "publications": {
                 "01-time_complexity": {
                     "metadata": {
-                        "due": "2025-10-04 23:59:00",
+                        "due": "2025-01-12 23:59:00",
                         "ready": true,
-                        "released": "2025-10-01 00:00:00",
+                        "released": "2025-01-09 00:00:00",
                         "topic": "Time Complexity Analysis",
                         "number": 1
                     },
@@ -438,9 +438,9 @@
                 },
                 "02-asymptotic": {
                     "metadata": {
-                        "due": "2025-10-11 23:59:00",
+                        "due": "2025-01-19 23:59:00",
                         "ready": true,
-                        "released": "2025-10-08 00:00:00",
+                        "released": "2025-01-16 00:00:00",
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
                     },
@@ -448,9 +448,9 @@
                 },
                 "03-recurrences-sorting": {
                     "metadata": {
-                        "due": "2025-10-18 23:59:00",
+                        "due": "2025-01-26 23:59:00",
                         "ready": true,
-                        "released": "2025-10-13 00:00:00",
+                        "released": "2025-01-21 00:00:00",
                         "topic": "Binary Search, Recurrences, Sorting",
                         "number": 3
                     },
@@ -458,9 +458,9 @@
                 },
                 "04-quickselect-bst": {
                     "metadata": {
-                        "due": "2025-10-25 23:59:00",
+                        "due": "2025-02-02 23:59:00",
                         "ready": true,
-                        "released": "2025-10-20 00:00:00",
+                        "released": "2025-01-28 00:00:00",
                         "topic": "Quickselect and BSTs",
                         "number": 4
                     },
@@ -468,9 +468,9 @@
                 },
                 "05-hashing": {
                     "metadata": {
-                        "due": "2025-11-01 23:59:00",
+                        "due": "2025-02-09 23:59:00",
                         "ready": true,
-                        "released": "2025-10-27 00:00:00",
+                        "released": "2025-02-04 00:00:00",
                         "topic": "Hashing",
                         "number": 5
                     },
@@ -478,9 +478,9 @@
                 },
                 "06-graphs": {
                     "metadata": {
-                        "due": "2025-11-08 23:59:00",
+                        "due": "2025-02-16 23:59:00",
                         "ready": true,
-                        "released": "2025-11-03 00:00:00",
+                        "released": "2025-02-11 00:00:00",
                         "topic": "Graph Theory and BFS",
                         "number": 6
                     },
@@ -488,9 +488,9 @@
                 },
                 "07-bfs": {
                     "metadata": {
-                        "due": "2025-11-15 23:59:00",
+                        "due": "2025-02-23 23:59:00",
                         "ready": true,
-                        "released": "2025-11-10 00:00:00",
+                        "released": "2025-02-18 00:00:00",
                         "topic": "BFS and DFS",
                         "number": 7
                     },
@@ -498,9 +498,9 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2025-11-22 23:59:00",
+                        "due": "2025-03-02 23:59:00",
                         "ready": true,
-                        "released": "2025-11-17 00:00:00",
+                        "released": "2025-02-25 00:00:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
@@ -508,9 +508,9 @@
                 },
                 "09-mst": {
                     "metadata": {
-                        "due": "2024-12-06 23:59:00",
+                        "due": "2025-03-09 23:59:00",
                         "ready": true,
-                        "released": "2024-11-29 00:00:00",
+                        "released": "2025-03-04 00:00:00",
                         "topic": "Minimum Spanning Trees",
                         "number": 9
                     },
@@ -548,8 +548,8 @@
             "publications": {
                 "01-time_complexity": {
                     "metadata": {
-                        "due": "2025-10-08 23:59:00",
-                        "released": "2025-10-02 00:00:00",
+                        "due": "2025-01-15 23:59:00",
+                        "released": "2025-01-09 00:00:00",
                         "topic": "Time Complexity Analysis",
                         "number": 1
                     },
@@ -557,8 +557,8 @@
                 },
                 "02-asymptotic": {
                     "metadata": {
-                        "due": "2025-10-15 23:59:00",
-                        "released": "2025-10-09 00:00:00",
+                        "due": "2025-01-22 23:59:00",
+                        "released": "2025-01-16 00:00:00",
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
                     },
@@ -566,8 +566,8 @@
                 },
                 "03-recurrences-sorting": {
                     "metadata": {
-                        "due": "2025-10-22 23:59:00",
-                        "released": "2025-10-16 00:00:00",
+                        "due": "2025-01-29 23:59:00",
+                        "released": "2025-01-23 00:00:00",
                         "topic": "Recurrences and Sorting",
                         "number": 3
                     },
@@ -575,8 +575,8 @@
                 },
                 "04-quickselect-bst": {
                     "metadata": {
-                        "due": "2025-10-29 23:59:00",
-                        "released": "2025-10-23 23:59:00",
+                        "due": "2025-02-05 23:59:00",
+                        "released": "2025-01-30 23:59:00",
                         "topic": "Quickselect and BSTs",
                         "number": 4
                     },
@@ -584,8 +584,8 @@
                 },
                 "05-hashing": {
                     "metadata": {
-                        "due": "2025-11-05 23:59:00",
-                        "released": "2025-10-30 23:59:00",
+                        "due": "2025-02-12 23:59:00",
+                        "released": "2025-02-06 23:59:00",
                         "topic": "Hashing",
                         "number": 5
                     },
@@ -593,8 +593,8 @@
                 },
                 "06-graphs": {
                     "metadata": {
-                        "due": "2025-11-12 23:59:00",
-                        "released": "2025-11-06 23:59:00",
+                        "due": "2025-02-19 23:59:00",
+                        "released": "2025-02-13 23:59:00",
                         "topic": "Graph Theory and BFS",
                         "number": 6
                     },
@@ -602,8 +602,8 @@
                 },
                 "07-bfs-dfs": {
                     "metadata": {
-                        "due": "2025-11-19 23:59:00",
-                        "released": "2025-11-13 23:59:00",
+                        "due": "2025-02-26 23:59:00",
+                        "released": "2025-02-20 23:59:00",
                         "topic": "BFS and DFS",
                         "number": 7
                     },
@@ -611,8 +611,8 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2024-11-27 23:59:00",
-                        "released": "2024-11-19 23:59:00",
+                        "due": "2025-03-05 23:59:00",
+                        "released": "2025-02-25 23:59:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
@@ -620,8 +620,8 @@
                 },
                 "09-super_homework": {
                     "metadata": {
-                        "due": "2024-12-11 23:59:00",
-                        "released": "2024-11-28 00:00:00",
+                        "due": "2025-03-19 00:00:00",
+                        "released": "2025-03-04 23:59:00",
                         "topic": "Super Homework",
                         "number": 9
                     },
