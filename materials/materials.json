@@ -119,7 +119,8 @@
                     "slides.pdf"
                 ],
                 "optional_artifacts": [
-                    "slides-marked.pdf"
+                    "slides-marked.pdf",
+                    "slides.pptx"
                 ],
                 "metadata_schema": {
                     "optional_keys": {
@@ -172,6 +173,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/01-intro/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/01-intro/slides.pptx"
                         }
                     }
                 },
@@ -185,6 +189,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/02-time_complexity-pt_I/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/02-time_complexity-pt_I/slides.pptx"
                         }
                     }
                 },
@@ -198,6 +205,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/03-time_complexity-pt_II/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/03-time_complexity-pt_II/slides.pptx"
                         }
                     }
                 },
@@ -211,6 +221,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/04-expected_time/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/04-expected_time/slides.pptx"
                         }
                     }
                 },
@@ -224,6 +237,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/05-binary_search-recurrences/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/05-binary_search-recurrences/slides.pptx"
                         }
                     }
                 },
@@ -237,6 +253,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/06-sorting/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/06-sorting/slides.pptx"
                         }
                     }
                 },
@@ -250,6 +269,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/07-quickselect/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/07-quickselect/slides.pptx"
                         }
                     }
                 },
@@ -263,6 +285,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/08-bst/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/08-bst/slides.pptx"
                         }
                     }
                 },
@@ -276,6 +301,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/09-hashing/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/09-hashing/slides.pptx"
                         }
                     }
                 },
@@ -290,6 +318,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/10-graph_theory/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/10-graph_theory/slides.pptx"
                         }
                     }
                 },
@@ -303,6 +334,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/11-bfs-pt_I/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/11-bfs-pt_I/slides.pptx"
                         }
                     }
                 },
@@ -316,6 +350,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/12-bfs-pt_II/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/12-bfs-pt_II/slides.pptx"
                         }
                     }
                 },
@@ -329,6 +366,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/13-dfs/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/13-dfs/slides.pptx"
                         }
                     }
                 },
@@ -342,6 +382,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/14-bellman_ford/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/14-bellman_ford/slides.pptx"
                         }
                     }
                 },
@@ -355,6 +398,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/15-dijkstra/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/15-dijkstra/slides.pptx"
                         }
                     }
                 },
@@ -368,6 +414,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/16-prim/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/16-prim/slides.pptx"
                         }
                     }
                 },
@@ -381,6 +430,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/17-kruskal/slides.pdf"
+                        },
+                        "slides.pptx": {
+                            "path": "lectures/17-kruskal/slides.pptx"
                         }
                     }
                 },
