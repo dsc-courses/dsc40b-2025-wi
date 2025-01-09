@@ -481,7 +481,7 @@
                 "01-time_complexity": {
                     "metadata": {
                         "due": "2025-01-12 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-01-09 00:00:00",
                         "topic": "Time Complexity Analysis",
                         "number": 1
