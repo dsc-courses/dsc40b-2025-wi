@@ -628,7 +628,14 @@
                         "topic": "Time Complexity and Asymptotic Notation",
                         "number": 2
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/02-asymptotic/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/02-asymptotic/template.zip"
+                        }
+                    }
                 },
                 "03-recurrences-sorting": {
                     "metadata": {
