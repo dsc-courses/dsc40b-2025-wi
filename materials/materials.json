@@ -515,7 +515,7 @@
                 "03-recurrences-sorting": {
                     "metadata": {
                         "due": "2025-01-26 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-01-23 00:00:00",
                         "topic": "Binary Search, Recurrences, Sorting",
                         "number": 3
@@ -622,6 +622,9 @@
                     "artifacts": {
                         "homework.pdf": {
                             "path": "homeworks/01-time_complexity/homework.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "homeworks/01-time_complexity/solution.pdf"
                         },
                         "template.zip": {
                             "path": "homeworks/01-time_complexity/template.zip"
