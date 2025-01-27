@@ -252,6 +252,9 @@
                         "slides.pdf": {
                             "path": "lectures/05-binary_search-recurrences/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/05-binary_search-recurrences/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/05-binary_search-recurrences/slides.pptx"
                         }
@@ -267,6 +270,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/06-sorting/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/06-sorting/slides-marked.pdf"
                         },
                         "slides.pptx": {
                             "path": "lectures/06-sorting/slides.pptx"
