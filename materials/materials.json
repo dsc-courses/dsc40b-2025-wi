@@ -655,6 +655,9 @@
                         "homework.pdf": {
                             "path": "homeworks/02-asymptotic/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/02-asymptotic/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/02-asymptotic/template.zip"
                         }
