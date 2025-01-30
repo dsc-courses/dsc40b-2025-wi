@@ -683,7 +683,14 @@
                         "topic": "Quickselect and BSTs",
                         "number": 4
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/04-quickselect-bst/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/04-quickselect-bst/template.zip"
+                        }
+                    }
                 },
                 "05-hashing": {
                     "metadata": {
