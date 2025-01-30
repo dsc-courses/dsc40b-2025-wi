@@ -678,8 +678,8 @@
                 },
                 "04-quickselect-bst": {
                     "metadata": {
-                        "due": "2025-02-05 23:59:00",
-                        "released": "2025-01-30 23:59:00",
+                        "due": "2025-02-04 23:59:00",
+                        "released": "2025-01-30 00:00:00",
                         "topic": "Quickselect and BSTs",
                         "number": 4
                     },
@@ -687,8 +687,8 @@
                 },
                 "05-hashing": {
                     "metadata": {
-                        "due": "2025-02-12 23:59:00",
-                        "released": "2025-02-06 23:59:00",
+                        "due": "2025-02-11 23:59:00",
+                        "released": "2025-02-05 23:59:00",
                         "topic": "Hashing",
                         "number": 5
                     },
@@ -696,8 +696,8 @@
                 },
                 "06-graphs": {
                     "metadata": {
-                        "due": "2025-02-19 23:59:00",
-                        "released": "2025-02-13 23:59:00",
+                        "due": "2025-02-18 23:59:00",
+                        "released": "2025-02-12 23:59:00",
                         "topic": "Graph Theory and BFS",
                         "number": 6
                     },
@@ -705,8 +705,8 @@
                 },
                 "07-bfs-dfs": {
                     "metadata": {
-                        "due": "2025-02-26 23:59:00",
-                        "released": "2025-02-20 23:59:00",
+                        "due": "2025-02-25 23:59:00",
+                        "released": "2025-02-19 23:59:00",
                         "topic": "BFS and DFS",
                         "number": 7
                     },
@@ -714,8 +714,8 @@
                 },
                 "08-spd": {
                     "metadata": {
-                        "due": "2025-03-05 23:59:00",
-                        "released": "2025-02-25 23:59:00",
+                        "due": "2025-03-04 23:59:00",
+                        "released": "2025-02-24 23:59:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
                     },
@@ -724,7 +724,7 @@
                 "09-super_homework": {
                     "metadata": {
                         "due": "2025-03-19 00:00:00",
-                        "released": "2025-03-04 23:59:00",
+                        "released": "2025-03-03 23:59:00",
                         "topic": "Super Homework",
                         "number": 9
                     },
