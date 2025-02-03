@@ -301,6 +301,9 @@
                         "slides.pdf": {
                             "path": "lectures/07-quickselect/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/07-quickselect/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/07-quickselect/slides.pptx"
                         }
@@ -316,6 +319,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/08-bst/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/08-bst/slides-marked.pdf"
                         },
                         "slides.pptx": {
                             "path": "lectures/08-bst/slides.pptx"
