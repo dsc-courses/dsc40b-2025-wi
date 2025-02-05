@@ -706,6 +706,9 @@
                         "homework.pdf": {
                             "path": "homeworks/04-quickselect-bst/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/04-quickselect-bst/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/04-quickselect-bst/template.zip"
                         }
