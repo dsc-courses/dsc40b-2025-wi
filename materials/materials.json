@@ -687,6 +687,9 @@
                         "homework.pdf": {
                             "path": "homeworks/03-recurrences-sorting/homework.pdf"
                         },
+                        "solution.pdf": {
+                            "path": "homeworks/03-recurrences-sorting/solution.pdf"
+                        },
                         "template.zip": {
                             "path": "homeworks/03-recurrences-sorting/template.zip"
                         }
