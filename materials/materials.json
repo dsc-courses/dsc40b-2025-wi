@@ -721,7 +721,14 @@
                         "topic": "Hashing",
                         "number": 5
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "homework.pdf": {
+                            "path": "homeworks/05-hashing/homework.pdf"
+                        },
+                        "template.zip": {
+                            "path": "homeworks/05-hashing/template.zip"
+                        }
+                    }
                 },
                 "06-graphs": {
                     "metadata": {
