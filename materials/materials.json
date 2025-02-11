@@ -103,7 +103,14 @@
                         "number": 5,
                         "recording": null
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/05-hashing/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/05-hashing/solution.pdf"
+                        }
+                    }
                 },
                 "06-graphs_bfs": {
                     "metadata": {
