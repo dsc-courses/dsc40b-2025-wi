@@ -558,7 +558,7 @@
                 "04-quickselect-bst": {
                     "metadata": {
                         "due": "2025-02-02 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-01-28 00:00:00",
                         "topic": "Quickselect and BSTs",
                         "number": 4
@@ -568,7 +568,7 @@
                 "05-hashing": {
                     "metadata": {
                         "due": "2025-02-09 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-02-04 00:00:00",
                         "topic": "Hashing",
                         "number": 5
@@ -578,7 +578,7 @@
                 "06-graphs": {
                     "metadata": {
                         "due": "2025-02-16 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-02-11 00:00:00",
                         "topic": "Graph Theory and BFS",
                         "number": 6
@@ -588,7 +588,7 @@
                 "07-bfs": {
                     "metadata": {
                         "due": "2025-02-23 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-02-18 00:00:00",
                         "topic": "BFS and DFS",
                         "number": 7
@@ -598,7 +598,7 @@
                 "08-spd": {
                     "metadata": {
                         "due": "2025-03-02 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-02-25 00:00:00",
                         "topic": "Shortest Paths in Weighted Graphs",
                         "number": 8
@@ -608,7 +608,7 @@
                 "09-mst": {
                     "metadata": {
                         "due": "2025-03-09 23:59:00",
-                        "ready": false,
+                        "ready": true,
                         "released": "2025-03-04 00:00:00",
                         "topic": "Minimum Spanning Trees",
                         "number": 9
