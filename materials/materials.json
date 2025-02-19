@@ -349,6 +349,9 @@
                         "slides.pdf": {
                             "path": "lectures/09-hashing/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/09-hashing/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/09-hashing/slides.pptx"
                         }
@@ -366,6 +369,9 @@
                         "slides.pdf": {
                             "path": "lectures/10-graph_theory/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/10-graph_theory/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/10-graph_theory/slides.pptx"
                         }
@@ -381,6 +387,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/11-bfs-pt_I/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/11-bfs-pt_I/slides-marked.pdf"
                         },
                         "slides.pptx": {
                             "path": "lectures/11-bfs-pt_I/slides.pptx"
