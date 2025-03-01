@@ -421,6 +421,9 @@
                         "slides.pdf": {
                             "path": "lectures/12-bfs-pt_II/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/12-bfs-pt_II/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/12-bfs-pt_II/slides.pptx"
                         }
@@ -436,6 +439,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/13-dfs/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/13-dfs/slides-marked.pdf"
                         },
                         "slides.pptx": {
                             "path": "lectures/13-dfs/slides.pptx"
@@ -453,6 +459,9 @@
                         "slides.pdf": {
                             "path": "lectures/14-bellman_ford/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/14-bellman_ford/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/14-bellman_ford/slides.pptx"
                         }
@@ -468,6 +477,9 @@
                     "artifacts": {
                         "slides.pdf": {
                             "path": "lectures/15-dijkstra/slides.pdf"
+                        },
+                        "slides-marked.pdf": {
+                            "path": "lectures/15-dijkstra/slides-marked.pdf"
                         },
                         "slides.pptx": {
                             "path": "lectures/15-dijkstra/slides.pptx"
