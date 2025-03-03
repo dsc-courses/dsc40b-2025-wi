@@ -147,10 +147,14 @@
                 "08-bellman_ford": {
                     "metadata": {
                         "date": "2025-03-03",
-                        "topic": "Bellman-Ford",
+                        "topic": "Midterm 02 Review",
                         "number": 8
                     },
-                    "artifacts": {}
+                    "artifacts": {
+                        "discussion.pdf": {
+                            "path": "discussions/08-bellman_ford/discussion.pdf"
+                        }
+                    }
                 },
                 "09-prim_kruskal": {
                     "metadata": {
