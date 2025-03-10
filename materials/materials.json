@@ -168,6 +168,9 @@
                     "artifacts": {
                         "discussion.pdf": {
                             "path": "discussions/09-prim_kruskal/discussion.pdf"
+                        },
+                        "solution.pdf": {
+                            "path": "discussions/09-prim_kruskal/solution.pdf"
                         }
                     }
                 }
