@@ -504,6 +504,9 @@
                         "slides.pdf": {
                             "path": "lectures/16-prim/slides.pdf"
                         },
+                        "slides-marked.pdf": {
+                            "path": "lectures/16-prim/slides-marked.pdf"
+                        },
                         "slides.pptx": {
                             "path": "lectures/16-prim/slides.pptx"
                         }
